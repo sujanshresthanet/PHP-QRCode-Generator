@@ -1,13 +1,16 @@
 # PHP QR Code Generator 
 [![Build Status](https://travis-ci.org/picqer/php-barcode-generator.svg?branch=main)](#) [![Github Actions](https://github.com/picqer/php-barcode-generator/workflows/phpunit/badge.svg)](#) 
+[![Donate via PayPal](https://img.shields.io/badge/donate-paypal-87ceeb.svg)](https://www.paypal.com/donate/?hosted_button_id=2L5XM9USTV4K4)
+*Please consider supporting this project by making a donation via [PayPal](https://www.paypal.com/donate/?hosted_button_id=2L5XM9USTV4K4)*
 
+## Description
 This is an easy to use, non-bloated, framework independent, QR Code generator in PHP.
 
 ## Installation
 Install through [composer](https://getcomposer.org/doc/00-intro.md):
 
 ```
-composer require sujanshresthanet/PHP-QRCode-Generator
+composer require sujanshresthanet/php-qrcode-generator
 ```
 
 **Getting started:-**
