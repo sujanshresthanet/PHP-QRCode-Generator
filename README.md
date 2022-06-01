@@ -1,5 +1,6 @@
 # PHP QR Code Generator 
-[![Build Status](https://travis-ci.org/picqer/php-barcode-generator.svg?branch=main)](#) [![Github Actions](https://github.com/picqer/php-barcode-generator/workflows/phpunit/badge.svg)](#) 
+[![Latest Stable Version](http://poser.pugx.org/sujanshresthanet/php-qrcode-generator/v)](https://packagist.org/packages/sujanshresthanet/php-qrcode-generator) [![Total Downloads](http://poser.pugx.org/sujanshresthanet/php-qrcode-generator/downloads)](https://packagist.org/packages/sujanshresthanet/php-qrcode-generator) [![Latest Unstable Version](http://poser.pugx.org/sujanshresthanet/php-qrcode-generator/v/unstable)](https://packagist.org/packages/sujanshresthanet/php-qrcode-generator) [![License](http://poser.pugx.org/sujanshresthanet/php-qrcode-generator/license)](https://packagist.org/packages/sujanshresthanet/php-qrcode-generator) [![PHP Version Require](http://poser.pugx.org/sujanshresthanet/php-qrcode-generator/require/php)](https://packagist.org/packages/sujanshresthanet/php-qrcode-generator)
+
 [![Donate via PayPal](https://img.shields.io/badge/donate-paypal-87ceeb.svg)](https://www.paypal.com/donate/?hosted_button_id=2L5XM9USTV4K4)
 *Please consider supporting this project by making a donation via [PayPal](https://www.paypal.com/donate/?hosted_button_id=2L5XM9USTV4K4)*
 
