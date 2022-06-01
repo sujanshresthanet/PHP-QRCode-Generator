@@ -1,0 +1,7 @@
+{
+    "name": "sujanshresthanet/php-qrcode-generator",
+    "description": "Generate QRCode with PHP",
+    "require": {
+        "php": ">=7.2"
+    }
+}
