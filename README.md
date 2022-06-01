@@ -1,3 +1,15 @@
+# PHP QR Code Generator 
+[![Build Status](https://travis-ci.org/picqer/php-barcode-generator.svg?branch=main)](#) [![Github Actions](https://github.com/picqer/php-barcode-generator/workflows/phpunit/badge.svg)](#) 
+
+This is an easy to use, non-bloated, framework independent, QR Code generator in PHP.
+
+## Installation
+Install through [composer](https://getcomposer.org/doc/00-intro.md):
+
+```
+composer require sujanshresthanet/PHP-QRCode-Generator
+```
+
 **Getting started:-**
 
 We start off by creating a folder named **PHP QRCode Generator**. We open this folder in an editor. I am using Atom for it. Having done that, we will create a file named ‘index.html’ which will be storing the Html structure of our web page.
