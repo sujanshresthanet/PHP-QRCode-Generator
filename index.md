@@ -345,10 +345,10 @@ function onSubmit(ev) {
 
 # Output
 
-![Form](../master/images/form.png)
+![Form](../PHP-QRCode-Generator/blob/master/images/form.png)
 
 ***
 
-![QRCode](../master/images/form-with-qrcode.png)
+![QRCode](../PHP-QRCode-Generator/blob/master/images/form-with-qrcode.png)
 
 ***
